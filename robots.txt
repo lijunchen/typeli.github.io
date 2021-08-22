@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://metajc.com/sitemap.xml
